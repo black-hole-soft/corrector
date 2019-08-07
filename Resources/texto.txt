@@ -1,0 +1,82 @@
+Para obtener m s informaci¢n acerca de un comando espec¡fico, escriba HELP
+seguido del nombre de comando
+ASSOC    Muestra o modifica las asociaciones de las extensiones de archivos.
+AT       Planifica comandos y programas para ejecutarse en un equipo.
+ATTRIB   Muestra o cambia los atributos del archivo.
+BREAK    Establece o elimina la comprobaci¢n extendida de Ctrl+C.
+CALCS    Muestra o modifica las listas de control de acceso (ACLs) de archivos.
+CALL     Llama a un programa por lotes desde otro.
+CD       Muestra el nombre del directorio actual o cambia a otro directorio.
+CHCP     Muestra o establece el n£mero de p gina de c¢digos activa.
+CHDIR    Muestra el nombre del directorio actual o cambia a otro directorio.
+CHKDSK   Comprueba un disco y muestra un informe de su estado.
+CHKNTFS  Muestra o modifica la comprobaci¢n de disco al iniciar.
+CLS      Borra la pantalla.
+CMD      Inicia una nueva instancia del int‚rprete de comandos de Windows
+COLOR    Establece los colores de primer plano y fondo predeterminados de la
+         consola.
+COMP     Compara el contenido de dos archivos o un conjunto de archivos.
+COMPACT  Muestra o cambia el estado de compresi¢n de archivos en particiones
+         NTFS.
+CONVERT  Convierte vol£menes FAT a vol£menes NTFS. No puede convertir
+         la unidad actual.
+COPY     Copia uno o m s archivos a otro lugar.
+DATE     Muestra o establece la fecha.
+DEL      Elimina uno o m s archivos.
+DIR      Muestra una lista de archivos y subdirectorios en un directorio.
+DISKCOMP Compara el contenido de dos disquetes.
+DISKCOPY Copia el contenido de un disquete en otro.
+DOSKEY   Edita l¡neas de comando, memoriza comandos y crea macros.
+ECHO     Muestra mensajes, o activa y desactiva el eco.
+ENDLOCAL Termina la b£squeda de variables de entorno del archivo por lotes.
+ERASE    Elimina uno o m s archivos.
+EXIT     Sale del programa CMD.EXE (interfaz de comandos).
+FC       Compara dos archivos o conjunto de archivos y muestra las diferencias
+         entre ellos.
+FIND     Busca una cadena de texto en uno o m s archivos.
+FINDSTR  Busca cadenas de texto en archivos.
+FOR      Ejecuta un comando para cada archivo en un conjunto de archivos.
+FORMAT   Da formato a un disco para usarse con Windows.
+FTYPE    Muestra o modifica los tipos de archivo utilizados en una asociaci¢n
+         de archivos.
+GOTO     Direcciona el int‚rprete de comandos de Windows a una l¡nea en
+         un programa por lotes.
+GRAFTABL Permite a Windows mostrar un conjunto de caracteres extendidos
+         en modo gr fico.
+HELP     Proporciona informaci¢n de ayuda para los comandos de Windows.
+IF       Ejecuta procesos condicionales en programas por lotes.
+LABEL    Crea, cambia o elimina la etiqueta del volumen de un disco.
+MD       Crea un directorio.
+MKDIR    Crea un directorio.
+MODE     Configura un dispositivo de sistema.
+MORE     Muestra la informaci¢n pantalla por pantalla.
+MOVE     Mueve uno o m s archivos de un directorio a otro en la misma unidad.
+PATH     Muestra o establece una ruta de b£squeda para archivos ejecutables.
+PAUSE    Suspende el proceso de un archivo por lotes y muestra un mensaje.
+POPD     Restaura el valor anterior del directorio actual guardado por PUSHD.
+PRINT    Imprime un archivo de texto.
+PROMPT   Cambia el s¡mbolo de comandos de Windows.
+PUSHD    Guarda el directorio actual y despu‚s lo cambia.
+RD       Elimina un directorio.
+RECOVER  Recupera la informaci¢n legible de un disco da¤ado o defectuoso.
+REM      Graba comentarios en archivos por lotes o CONFIG.SYS.
+REN      Cambia el nombre de uno o m s archivos.
+RENAME   Cambia el nombre de uno o m s archivos.
+REPLACE  Reemplaza archivos.
+RMDIR    Elimina un directorio.
+SET      Muestra, establece o elimina variables de entorno de Windows.
+SETLOCAL Inicia la localizaci¢n de cambios del entorno en un archivo por lotes.
+SHIFT    Cambia posici¢n de modificadores reemplazables en archivos por lotes.
+SORT     Ordena las entradas.
+START    Inicia otra ventana para ejecutar un programa o comando.
+SUBST    Asocia una ruta de acceso con una letra de unidad.
+TIME     Muestra o establece la hora del sistema.
+TITLE    Establece el t¡tulo de la ventana de una sesi¢n de CMD.EXE.
+TREE     Muestra gr ficamente la estructura de directorios de una unidad o
+         ruta de acceso.
+TYPE     Muestra el contenido de un archivo de texto.
+VER      Muestra la versi¢n de Windows.
+VERIFY   Comunica a Windows si debe comprobar que los archivos se escriben
+         de forma correcta en un disco.
+VOL      Muestra la etiqueta del volumen y el n£mero de serie del disco.
+XCOPY    Copia archivos y  rboles de directorios.
